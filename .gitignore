@@ -1,0 +1,11 @@
+*.pyc
+*.idea
+*.log
+*.DS_Store
+*venv/
+*.idea/workspace.xml
+
+workspace.xml
+app.log
+.idea/watcherTasks.xml
+.idea/misc.xml
